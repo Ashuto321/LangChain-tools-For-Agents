@@ -7,7 +7,6 @@ This repository explores tool creation, tool calling, tool execution, and agent-
 to build intelligent AI systems capable of interacting with external APIs and performing real-world tasks.
 </p>
 
-<hr>
 
 <h2>Project Overview</h2>
 
@@ -56,5 +55,5 @@ Understanding tool usage is a critical skill in modern Generative AI development
 </p>
 
 <p align="center">
-<b>If you find this project useful, consider giving it a ⭐ on GitHub!</b>
+<b>If you find this project useful, consider giving it a "*" on GitHub!</b>
 </p>
